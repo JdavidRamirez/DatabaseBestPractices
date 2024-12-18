@@ -1,4 +1,4 @@
-# Database Design Best Practices
+ Best Practices
 A comprehensive guide to database design best practices with practical examples, covering normalization, indexing, security, scalability, and more. Perfect for developers, analysts, and DBAs!
 
 ## Objective:
@@ -9,12 +9,12 @@ This project aims to provide a comprehensive resource for database design best p
 
 2. Understand the foundational principles of database design.
 
-Reduce redundancy and maintain data integrity through normalization.
+3. Reduce redundancy and maintain data integrity through normalization.
 
-Apply industry-standard naming conventions and structure.
+4. Apply industry-standard naming conventions and structure.
 
-Optimize databases for performance with appropriate indexing and data types.
+5. Optimize databases for performance with appropriate indexing and data types.
 
-Ensure scalability and robustness to handle real-world demands.
+6. Ensure scalability and robustness to handle real-world demands.
 
-Enforce security, data integrity, and disaster recovery measures.
+7. Enforce security, data integrity, and disaster recovery measures.
