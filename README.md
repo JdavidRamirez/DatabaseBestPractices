@@ -4,3 +4,5 @@ A comprehensive guide to database design best practices with practical examples,
 ## Objective: 
 
 $Equation$ - $\pi \approx 3.14159$
+
+$QQ=2\pi$
